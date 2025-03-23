@@ -1,7 +1,11 @@
 # **Perplexity in Your Terminal 🚀**  
 
 ## We are using langroid for this
-langroid is an amazing agents framwork with batteries included (and lots of starter examples)
+langroid is an amazing agents framwork with batteries included 
+
+(and lots of starter examples)
+
+
 This is example adapted from langroid
 
 ## **Setup Instructions**  
