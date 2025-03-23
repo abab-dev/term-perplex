@@ -53,6 +53,8 @@ Finally, start the chat search script:
 ```sh
 python chat_search.py
 ```
+![Screenshot from 2025-03-16 19-48-46](https://github.com/user-attachments/assets/04357fb5-1463-49bd-acea-0cce5f51bf63)
+
 
 Enjoy! 🎉🚀
 
